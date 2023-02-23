@@ -1,0 +1,1 @@
+here i train an simple model that predicts the addition of two single digit numbers
